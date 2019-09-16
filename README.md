@@ -24,3 +24,9 @@ CG11 Comunicar idees i projectes als clients, argumentar raonadament, saber aval
 
 CE6 Interrelacionar els llenguatges formal i simbòlic amb la funcionalitat específica
 CE10 Aplicar mètodes de verificació de l’eficàcia comunicativa
+
+### Resultats de l'aprenentatge.
+
+RA1 Entendre i aplica el disseny al llocs web i web apps.
+RA2 Crea, edita i gestiona llocs web estàtics i dinàmics.
+RA3 Pública llocs web i web apps.
