@@ -84,8 +84,9 @@ En aquest sentit, el “No qualificat/da” es considerarà una condició i no u
 
 Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures de les que s’haja matriculat durant un període continuat equivalent a un terç del curs escolar es considerarà abandó escolar per part d’eixe alumne/a. En eixe cas perdrà la condició d’alumne/a, quedant desvinculat/da dels estudis en els termes que s’especifiquen al punt 5, de l’article 14 del Decret 48/2011, de 6 de maig, del Consell, pel qual s’estableix l’ordenació de les ensenyances artístiques superiors.
 
-#### Valuacions i dates d'entrega.
+#### Avaluacions i dates d'entrega.
 
-Primera convocatòria. Dimecres 22/01/20 8.00 - 10.30
-Segona convocatòria. Dimecres 17/06/20 8.00 - 10.30
+*Primera convocatòria. Dimecres 22/01/20 8.00 - 10.30*
+
+*Segona convocatòria. Dimecres 17/06/20 8.00 - 10.30*
 
