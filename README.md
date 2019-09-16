@@ -43,7 +43,7 @@ Programació javascript.
 
 ### Criteris d'avaluació.
 
-Consideracions generals:  
+#### Consideracions generals:  
  
 L'avaluació serà continua per la qual cosa es requereix l’assistència regular de l'alumnat a les classes i la realització de la totalitat de les activitats programades. Per tant, l'assistència és obligatòria, sols es podrà faltar un 20% de les hores del total de classes a cada avaluació.
 
