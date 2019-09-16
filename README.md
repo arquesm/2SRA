@@ -83,3 +83,9 @@ Així el No Qualificat s'aplicarà a aquells alumnes que per qüestions inexcusa
 En aquest sentit, el “No qualificat/da” es considerarà una condició i no una qualificació. Per tant, la valoració d’aquesta condició estarà sotmesa a la consideració que la comissió de coordinació docent i, en última instància, la direcció del centre, en puguen fer per tal d’acreditar-la, sempre entesa com a excepcional. En una assignatura no es podran acumular més de tres “No qualificat/da” consecutius, qualificant-se la següent convocatòria obligatòriament.
 
 Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures de les que s’haja matriculat durant un període continuat equivalent a un terç del curs escolar es considerarà abandó escolar per part d’eixe alumne/a. En eixe cas perdrà la condició d’alumne/a, quedant desvinculat/da dels estudis en els termes que s’especifiquen al punt 5, de l’article 14 del Decret 48/2011, de 6 de maig, del Consell, pel qual s’estableix l’ordenació de les ensenyances artístiques superiors.
+
+#### Valuacions i dates d'entrega.
+
+Primera convocatòria. Dimecres 22/01/20 8.00 - 10.30
+Segona convocatòria. Dimecres 17/06/20 8.00 - 10.30
+
