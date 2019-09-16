@@ -1,6 +1,6 @@
 # 2SRA
 ## Sistemes de Representació Avançada
-### Continguts
+### Objectius generals
 
 L’objectiu d’aquesta assignatura és proporcionar a l’alumne la capacitat per entendre i saber com funciona la xarxa d’internet, com publicar, editar i dissenyar per aquest mitjà. 
 
