@@ -1,4 +1,4 @@
-# [2SRA] (https://arquesm.github.io/2SRA/)
+# <a href="https://arquesm.github.io/2SRA/">2SRA</a>
 ## Sistemes de Representació Avançada
 ### Objectius generals
 
