@@ -5,6 +5,10 @@
     <title>Broom</title>
     <!-- Tipografia -->
     <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
         h2{
             position: absolute;
             top: 50px;
@@ -27,6 +31,43 @@
             height: 1000px;
             background: red;
         }
+        div[title="vol_"]{
+            position: absolute;
+            top: 0;
+            right: 100px;
+            width: 100px;
+            height: 100px;
+            background: orange;
+        }
+        div[title="vol_"] p:first-child{
+            position: absolute;
+            background: green;
+            font-size: 20px;
+        }
+        div[title="vol_"] p:last-child{
+            position: absolute;
+            right: 0;
+            background: grey;
+            font-size: 100px;
+        }
+        
+        div[title="vol_2"]{
+            position: absolute;
+            transform: rotate(180deg);
+            top: 200px;
+            right: 100px;
+            width: 100px;
+            height: 100px;
+        }
+        div[title="vol_2"] p:first-child{
+            position: absolute;
+            font-size: 20px;
+        }
+        div[title="vol_2"] p:last-child{
+            position: absolute;
+            right: 0;
+            font-size: 100px;
+        }
     </style>
 </head>
 <body>
@@ -35,6 +76,14 @@
    <div title="b"></div>
    <div title="r"></div>
    <div title="b2"></div>
+   <div title="vol_">
+       <p>vol.</p>
+       <p>6</p>
+   </div>
+   <div title="vol_2">
+       <p>vol.</p>
+       <p>6</p>
+   </div>
    
 </body>
 </html>
