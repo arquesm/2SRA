@@ -87,7 +87,7 @@ Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures
 
 #### Avaluacions i dates d'entrega.
 
-*Primera convocatòria. Dimecres 20/01/20 8.00 - 10.30*
+*Primera convocatòria. Dilluns 20/01/20 8.00 - 10.30*
 
 *Segona convocatòria. Dimecres 17/06/20 8.00 - 10.30*
 
