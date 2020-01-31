@@ -89,6 +89,6 @@ Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures
 
 *Primera convocatòria. Dilluns 20/01/20 8.00 - 10.30*
 
-*Segona convocatòria. Dimecres 1/06/20 8.00 - 8.00*
+*Segona convocatòria. Dilluns 1/06/20 8.00 - 10.30*
  * Eixe dia s'hauran de tindre totes les pràctiques organitzades i correctament pujades en el perfil personal de la classe a la plataforma de github.
  * Es realitzarà un prova pràctica que consistirà en el desenvolupament d'un prototip amb html i css a partir del anàlisis i la mostra d'un original, que es proporcionarà eixe dia a la sessió de l'examen.
