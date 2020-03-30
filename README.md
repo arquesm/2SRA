@@ -93,4 +93,4 @@ Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures
 
  * Eixe dia s'hauran de tindre totes les pràctiques organitzades i correctament pujades en el perfil personal de la classe a la plataforma de github.
  * Es realitzarà un prova pràctica que consistirà en el desenvolupament d'un prototip amb html i css a partir del anàlisis i la mostra d'un original, que es proporcionarà eixe dia a la sessió de l'examen.
- * [Document que especifica en detall](2DG_SRA_juny_1920.pdf)
+ * [Document especificacions de la prova i criteris de correcció](2DG_SRA_juny_1920.pdf)
