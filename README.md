@@ -89,7 +89,7 @@ Quan un alumne/a deixe d’assistir sense justificació a totes les assignatures
 
 *Primera convocatòria. Dilluns 20/01/20  8.00 - 10.30*
 
-*[Segona convocatòria](juny1920.md).  Dilluns 1/06/20   08.00 - 13.30
+*[Segona convocatòria](juny1920.md).  Dilluns 1/06/20   08.00 - 13.00
 
 
  * Eixe dia s'hauran de tindre totes les pràctiques organitzades i correctament pujades en el perfil personal de la classe a la plataforma de github.
