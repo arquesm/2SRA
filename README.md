@@ -42,6 +42,10 @@ Web estática i dinàmica.
 
 Programació javascript.
 
+### Recursos complementaris.
+
+[Desenvolupament de d'aplicacions web](https://ioc.xtec.cat/educacio/recursos)
+
 ### Criteris d'avaluació.
 
 #### Consideracions generals:  
